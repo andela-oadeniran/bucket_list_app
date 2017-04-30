@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+coverage.xml
+*,cover
+
+#db
+*.sqlite
+/migrations
+
+
+# dotenv
+.env
+settings.cfg
+
+
+#DS files
+.DS_Store
